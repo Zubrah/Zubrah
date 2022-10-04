@@ -1,7 +1,7 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Zubeir Msemo
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)There!
 =====================================================================================================================================
 
-Full Stack Developer
+I'm Zubeir Msemo : Full Stack Developer
 --------------------
 
 I am naturally attracted to the technology field and innovating new things , my passion and commitment to the field has him stuck on researching and developing models to disrupt the status quo while maintaining the past towards creating a better future. My breakthrough with technology innovation happened when I accidentally developed an e-commerce platform in High school as a school project.Eversince Zubeir has been immersed with computer science and maths to sharpen his skills and experience. Fast-forward to today, and I've had the privilege of working at a Fintech CFO company, a start-up, a huge corporation, and an entrepreneur-led community. My sole goal is always build,collaborate and innovate accessible, inclusive products and digital experiences to clients.
